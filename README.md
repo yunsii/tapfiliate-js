@@ -12,15 +12,15 @@ This is a simple wrapper for the Tapfiliate [JavaScript integration](https://tap
 
 With npm:
 
-`npm install @tapfiliate/tapfiliate-js`
+`npm install tapfiliate-js`
 
 With yarn:
 
-`yarn add @tapfiliate/tapfiliate-js`
+`yarn add tapfiliate-js`
 
 Import and initialize your tracking using the init function. Get your account id from your [account settings](https://support.tapfiliate.com/en/articles/1353356-your-account-id).
 
-`import Tap from "@tapfiliate/tapfiliate-js";`
+`import Tap from "tapfiliate-js";`
 
 `Tap.init(accountId);`
 
